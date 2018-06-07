@@ -261,7 +261,6 @@ export default class extends Component {
       offset: initState.offset,
       isScrolling: false
     };
-    console.log('Bazinga, this.internals = ', this.internals);
     return initState
   }
 
